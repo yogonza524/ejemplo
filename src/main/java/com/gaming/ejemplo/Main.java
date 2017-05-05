@@ -30,6 +30,7 @@ public class Main {
     // <editor-fold defaultstate="collapsed" desc="Metodos">
     public static void main(String[] args) {
         System.out.println("Ejemplo");
+        System.out.println("Ejemplo");
     }
     //</editor-fold>
 }
